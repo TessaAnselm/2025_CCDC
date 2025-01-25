@@ -1,0 +1,53 @@
+I know that it’s a bit early, but I really must spring this on your team in order to get the proper process started and ready to flow.
+
+We currently are in need of a rehaul of our incident response policy as well as our incident response forms. Please provide for me the following in your next report:
+1.	An incident response policy
+2.	An incident response form template
+
+Your incident response form should have at minimum:
+•	Date and time of incident
+•	Type of incident (Malware, Breach, Other)
+•	Description of incident
+•	Source IP, IP of Breached System, and as much detail of attack vector as possible.
+•	Impact on services
+•	Impact on information (i.e. were records accessed, modified, etc.)
+Basically, we need something that should tell us the who, what, when, where, why, and how.
+
+Now I know you’re going to be pressed for time, but please ensure that if we need to report an incident that the proper forms are filled out with as much information as possible to assist in any investigation that may occur.
+
+*Competition NOTE: ANY IR report that is turned in without a source IP of the attacker WILL NOT be considered and WILL BE THROWN OUT!
+
+*****************************************************************************************
+
+CCDC Incident Response Policy & Form Update
+
+Incident Response Policy
+
+Purpose:
+The purpose of this Incident Response Policy is to establish a structured approach to identifying, responding to, and mitigating security incidents within our organization. Timely reporting and detailed documentation are critical to containing threats, minimizing damage, and supporting investigations.
+
+Scope:
+This policy applies to all team members, IT systems, and data assets within the CCDC competition environment.
+
+Incident Response Phases:
+	1.	Detection & Identification
+	•	Any suspicious activity should be immediately reported.
+	•	Logging and monitoring tools must be reviewed regularly.
+	2.	Analysis & Classification
+	•	Confirm if the incident is valid and categorize it (e.g., Malware, Breach, DoS).
+	•	Identify affected systems and potential attack vectors.
+	3.	Containment & Eradication
+	•	Isolate compromised systems to prevent spread.
+	•	Remove malicious files and patch vulnerabilities.
+	4.	Recovery & Reporting
+	•	Restore services to a secure state.
+	•	Complete an Incident Report Form and submit to leadership.
+	5.	Lessons Learned
+	•	Document findings and update security controls.
+
+Updated Incident Response Form for CCDC
+
+The form below ensures compliance with _____________ requirements, including detailed attack vector data and mandatory Source IP inclusion.
+
+Link: 
+https://raw.githack.com/TessaAnselm/2025_CCDC/main/Incident_response_template.html
